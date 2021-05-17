@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/employee-study-redux/static/css/main.e7bc0ce3.chunk.css",
+    "main.js": "/employee-study-redux/static/js/main.28e8f67e.chunk.js",
+    "main.js.map": "/employee-study-redux/static/js/main.28e8f67e.chunk.js.map",
+    "runtime-main.js": "/employee-study-redux/static/js/runtime-main.0fff4e49.js",
+    "runtime-main.js.map": "/employee-study-redux/static/js/runtime-main.0fff4e49.js.map",
+    "static/js/2.aea72cb6.chunk.js": "/employee-study-redux/static/js/2.aea72cb6.chunk.js",
+    "static/js/2.aea72cb6.chunk.js.map": "/employee-study-redux/static/js/2.aea72cb6.chunk.js.map",
+    "index.html": "/employee-study-redux/index.html",
+    "static/css/main.e7bc0ce3.chunk.css.map": "/employee-study-redux/static/css/main.e7bc0ce3.chunk.css.map",
+    "static/js/2.aea72cb6.chunk.js.LICENSE.txt": "/employee-study-redux/static/js/2.aea72cb6.chunk.js.LICENSE.txt",
+    "static/media/logo.b2e5a01e.svg": "/employee-study-redux/static/media/logo.b2e5a01e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fff4e49.js",
+    "static/js/2.aea72cb6.chunk.js",
+    "static/css/main.e7bc0ce3.chunk.css",
+    "static/js/main.28e8f67e.chunk.js"
+  ]
+}
